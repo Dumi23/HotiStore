@@ -1,0 +1,12 @@
+C:\Users\malid\Documents\MerchStore\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\malid\Documents\MerchStore\Core\bin\Debug\net5.0\Core.dll
+C:\Users\malid\Documents\MerchStore\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\malid\Documents\MerchStore\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\malid\Documents\MerchStore\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\malid\Documents\MerchStore\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malid\Documents\MerchStore\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\malid\Documents\MerchStore\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\malid\Documents\MerchStore\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\malid\Documents\MerchStore\Core\obj\Debug\net5.0\Core.dll
+C:\Users\malid\Documents\MerchStore\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\malid\Documents\MerchStore\Core\obj\Debug\net5.0\Core.pdb

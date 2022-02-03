@@ -1,0 +1,15 @@
+C:\Users\malid\Documents\MerchStore\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\malid\Documents\MerchStore\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\malid\Documents\MerchStore\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\malid\Documents\MerchStore\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\malid\Documents\MerchStore\Infrastructure\bin\Debug\net5.0\Core.dll
+C:\Users\malid\Documents\MerchStore\Infrastructure\bin\Debug\net5.0\Core.pdb
+C:\Users\malid\Documents\MerchStore\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\malid\Documents\MerchStore\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malid\Documents\MerchStore\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\malid\Documents\MerchStore\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\malid\Documents\MerchStore\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\malid\Documents\MerchStore\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\malid\Documents\MerchStore\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\malid\Documents\MerchStore\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\malid\Documents\MerchStore\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb

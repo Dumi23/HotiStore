@@ -1,0 +1,31 @@
+<ng-container *ngIf="basket$ | async">
+    <div class="card" *ngIf="(basket$ | async) as basket"></div>
+    <div class="row">
+        <div class="col-md-8 cart" style="background-color: black;">
+            <div class="title">
+                <div class="row">
+                    <div class="col">
+                        <h4><b>Basket</b></h4>
+                    </div>
+                    <div class="col align-self-center text-right text-muted"></div>
+                </div>
+            </div>
+            <div class="row border-top border-bottom"></div>
+            <div class="row main align-items-center" *ngFor="let item of (basket$ | async).items">
+                <div class="col-2"><img class="img-fluid" src="{{item.pictureUrl}}"></div>
+                <div class="col">
+                    <div class="row text-muted">{{item.type}}</div>
+                    <div class="row">{{item.productName}}</div>
+                </div>
+                <div class="col"> <a *ngIf="isBasket" (click)="decrementItemQuantity(item)">-</a><a
+                        class="border">{{item.quantity}}</a><a *ngIf="isBasket"
+                        (click)="incrementItemQuantity(item)">+</a></div>
+                <div class="col">{{item.price * item.quantity| currency: 'EUR'}}<span class="close" *ngIf="isBasket"
+                        (click)="removeBasketItem(item)">&#10005;</span>
+                </div>
+            </div>
+            <div *ngIf="isBasket" class="back-to-shop"><a routerLink="/shop">&leftarrow;</a><span class="text-muted"
+                    routerLink="/shop">Back to shop</span></div>
+        </div>
+    </div>
+</ng-container>

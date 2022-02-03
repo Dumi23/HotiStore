@@ -1,0 +1,10 @@
+<section class="shop container">
+<div class="shop-content">
+    <div class="product-box" routerLink="/shop/{{product.id}}">
+        <img src="{{product.pictureUrl}}" alt="{{product.name}}" class="product-img">
+        <h2 class="product-title">{{product.name}}</h2>
+        <span class="price">{{product.price | currency: 'EUR'}}</span>
+    </div>
+    <button class="fa fa-shopping-bag add-cart" (click)="addItemToBasket()"></button>
+</div>
+</section>

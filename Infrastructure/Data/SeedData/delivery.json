@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "ShortName": "UPS1",
+    "Description": "Fastest delivery time",
+    "DeliveryTimeEstimated": "1-2 Days",
+    "Price": 10
+  },
+  {
+    "Id": 2,
+    "ShortName": "Personal",
+    "Description": "Picking it up personally",
+    "DeliveryTimeEstimated": " ",
+    "Price": 0
+  },
+  {
+    "Id": 3,
+    "ShortName": "Payment by demand ",
+    "Description": "Paying when the delivery arrives",
+    "DeliveryTimeEstimated": "2-5 Days",
+    "Price": 0
+  }
+  
+
+
+
+]
